@@ -1,4 +1,4 @@
-@Import sprict (Api.google.com)
+ @sprict (Api.google.com)
 Fuction()
   'Case:hello'
   'Output("")'
